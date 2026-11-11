@@ -37,7 +37,7 @@ cd hello-world
 
 1. Clone the repo:
    ```bash
-   git clone <your-repo-URL>
+   git clone https://github.com/brandonelsinger/mod4-lab-b-hello-world.git
    cd hello-world
    ```
 2. Install dependencies (the `node_modules` folder is not stored on GitHub):
